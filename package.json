@@ -2,6 +2,6 @@
   "name": "app",
   "version": "0.1.0",
   "dependencies": {
-    "path-to-regexp": "~0.1.7"
+    "path-to-regexp": "<0.1.10"
   }
 }
